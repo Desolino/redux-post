@@ -1,0 +1,16 @@
+.form-container{
+    width: 500px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.card{
+    margin: 10px;
+
+}
+
+.form-container > div{
+    margin-bottom: 10px;
+}
